@@ -1,11 +1,16 @@
 _repo: Ruby-Roland-the-Girl-Spy-or-Simon-Kenton-s-Protege_56620
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56620-h/images/cover.jpg
 creator:
   author:
     agent_name: Whittaker, Frederick
     gutenberg_agent_id: '48952'
     url: http://www.gutenberg.org/2009/agents/48952
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56620#Ruby-Roland-the-Girl-Spy-or-Simon-Kenton-s-Protege
 gutenberg_issued: '2018-02-21'
 gutenberg_type: Text
 identifiers:
